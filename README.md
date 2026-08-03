@@ -2,8 +2,6 @@
 
 > A backend REST API for clinic management built with ASP.NET Core Web API, Entity Framework Core, and SQL Server using a clean layered architecture.
 
-![Swagger Preview](images/swagger-home.png)
-
 ## Overview
 
 ClinicFlow is a backend REST API designed for managing clinics, doctors, patients, treatments, and appointments.
@@ -13,6 +11,16 @@ The project demonstrates modern backend development practices including layered 
 The API is fully documented using Swagger and follows clean separation of concerns, making it scalable, maintainable, and easy to extend.
 
 ---
+
+### Swagger Overview
+
+![Swagger Overview](images/swagger-home.png)
+
+### Example Request
+
+**GET /api/doctors**
+
+![GET Doctors](images/doctors-get.png)
 
 ## Key Features
 
