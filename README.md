@@ -2,6 +2,12 @@
 
 > A backend REST API for clinic management built with ASP.NET Core Web API, Entity Framework Core, and SQL Server using a clean layered architecture.
 
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Web_API-512BD4)
+![C#](https://img.shields.io/badge/C%23-.NET-blue)
+![SQL Server](https://img.shields.io/badge/SQL_Server-Database-red)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-ORM-green)
+
+
 ## Overview
 
 ClinicFlow is a backend REST API designed for managing clinics, doctors, patients, treatments, and appointments.
